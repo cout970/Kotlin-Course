@@ -2,7 +2,7 @@
 
 ### Clase 1
 - Bases de la syntaxis
-- Arrays
+- Arrays, list e map
 - Strings
 - package e import
 - Datos nulables y no nulables
@@ -12,25 +12,32 @@
 - Estamentos when
 - Estamentos for
 - Estamentos while y do while
-
-### Clase 2
 - Clases simples
 - Propiedades y get/set
 - Constructores primario y secundarios
 - Data classes
+
+- *15 Minutos de hola mundo con objetos.*
+
+### Clase 2
 - Herencia open/sealed/abstract
 - Interfaces
 - Objects y Companion Objects
+- List y Map
+- Posiciones de funciones (scope)
+- Visibilidades de funciones
+- Argumentos de funciones default/vararg/argumentos con nombre
 - Propiedades lateinit y 'by lazy'
 - Delegacion 'by'
+- Sobrescritura de opreaciones
+
+- *40 Minutos Exercicio más complejo de completar un programa*
 
 ### Clase 3
-- Visibilidades de funciones
-- Posiciones de funciones (scope)
 - Funciones de una sola linea
-- Argumentos de funciones default/vararg/argumentos con nombre
 - Extensiones, funciones y propiedades
+- Destructuracion
 - Lambdas
 - use/apply/let/run
-- List y Map
-- Destructuracion
+
+- *60 Minutos pequeño proyecto*
